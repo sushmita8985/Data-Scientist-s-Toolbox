@@ -1,2 +1,2 @@
-# Data-Scientist-s-Toolbox
+# Data-Scientists-Toolbox
 Class Assignment
